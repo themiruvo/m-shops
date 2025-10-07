@@ -7,7 +7,7 @@ Config.Locale = 'sv' -- Available: 'en', 'sv'
 
 Config.Shops = {
     {
-        name = 'Erik\'s Loppis',
+        name = 'Hardware Store',
         blip = true,
         blipSprite = 402,
         coords = vector3(55.25, -1739.56, 29.59),
@@ -22,7 +22,7 @@ Config.Shops = {
         }
     },
     {
-        name = 'Erik\'s Loppis',
+        name = 'Hardware Store',
         blip = true,
         blipSprite = 402,
         coords = vector3(2747.29, 3473.06, 55.67),
@@ -37,7 +37,7 @@ Config.Shops = {
         }
     },
     {
-        name = 'Amo Abdi',
+        name = 'Uncle James',
         blip = false,
         blipSprite = 402,
         coords = vector3(2532.38, 4115.73, 38.81),
@@ -49,7 +49,7 @@ Config.Shops = {
         }
     },
     {
-        name = 'Erik\'s Loppis',
+        name = 'Hardware Store',
         blip = true,
         blipSprite = 402,
         coords = vector3(-421.64, 6137.33, 31.88),
