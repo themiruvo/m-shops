@@ -2,7 +2,7 @@ fx_version 'cerulean'; game 'gta5'; lua54 'yes';
 
 author 'Miruvo'
 description 'Shop System using interactive peds [QBCore, QBOX]'
-version '1.0.0'
+version '1.5.0'
 
 shared_scripts { 
     '@ox_lib/init.lua', 
