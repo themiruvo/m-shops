@@ -1,5 +1,5 @@
 local currentVersion = '1.0.0'
-local versionURL = 'https://raw.githubusercontent.com/themiruvo/m-shops/refs/heads/main/version.txt'
+local versionURL = 'https://raw.githubusercontent.com/themiruvo/m_shops/refs/heads/main/version.txt'
 
 AddEventHandler('onResourceStart', function(resource)
     if resource == GetCurrentResourceName() then
@@ -36,4 +36,5 @@ Script created by
 ░███      ░███  ░███  ░███      ░███ ░███  ░░███ ███  ░███ ░███
 █████     █████ █████ █████     ░░████████  ░░█████   ░░██████ 
 ░░░░░     ░░░░░ ░░░░░ ░░░░░       ░░░░░░░░    ░░░░░     ░░░░░░  
+
 ]])
