@@ -1,4 +1,4 @@
-# m-shops
+# m_shops
 
 > A modular and configurable shop system for FiveM using ox_lib and QBCore.  
 Supports multiple inventory systems (`qb`, `qs`, `ox`) and payment methods (`cash`, `bank`) out of the box.
