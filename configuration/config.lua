@@ -14,11 +14,11 @@ Config.Shops = {
         heading = 64.91,
         pedModel = 'a_m_y_eastsa_01',
         items = {
-            { name = 'lockpick', label = 'Dyrkset', price = 100 },
-            { name = 'carlockpick', label = 'Bil Dyrkset', price = 150 },
-            { name = 'cleaningkit', label = 'Rengörningskit', price = 80 },
+            { name = 'lockpick', label = 'Lockpick', price = 100 },
+            { name = 'carlockpick', label = 'Vehicle Lockpick', price = 150 },
+            { name = 'cleaningkit', label = 'Cleaning Kit', price = 80 },
             { name = 'radio', label = 'Radio', price = 250 },
-            { name = 'phone', label = 'Telefon', price = 300 }
+            { name = 'phone', label = 'Phone', price = 300 }
         }
     },
     {
@@ -29,11 +29,11 @@ Config.Shops = {
         heading = 246.94,
         pedModel = 'a_m_y_eastsa_01',
         items = {
-            { name = 'lockpick', label = 'Dyrkset', price = 100 },
-            { name = 'carlockpick', label = 'Bil Dyrkset', price = 150 },
-            { name = 'cleaningkit', label = 'Rengörningskit', price = 80 },
+            { name = 'lockpick', label = 'Lockpick', price = 100 },
+            { name = 'carlockpick', label = 'Vehicle Lockpick', price = 150 },
+            { name = 'cleaningkit', label = 'Cleaning Kit', price = 80 },
             { name = 'radio', label = 'Radio', price = 250 },
-            { name = 'phone', label = 'Telefon', price = 300 }
+            { name = 'phone', label = 'Phone', price = 300 }
         }
     },
     {
@@ -44,7 +44,7 @@ Config.Shops = {
         heading = 148.1,
         pedModel = 'a_m_y_eastsa_01',
         items = {
-            { name = 'electronickit', label = 'Elektronik Kit', price = 1000 },
+            { name = 'electronickit', label = 'Elektronic Kit', price = 1000 },
             { name = 'trojan_usb', label = 'Trojan USB', price = 1000 }
         }
     },
@@ -56,11 +56,11 @@ Config.Shops = {
         heading = 203.17,
         pedModel = 'a_m_y_eastsa_01',
         items = {
-            { name = 'lockpick', label = 'Dyrkset', price = 100 },
-            { name = 'carlockpick', label = 'Bil Dyrkset', price = 150 },
-            { name = 'cleaningkit', label = 'Rengörningskit', price = 80 },
+            { name = 'lockpick', label = 'Lockpick', price = 100 },
+            { name = 'carlockpick', label = 'Vehicle Lockpick', price = 150 },
+            { name = 'cleaningkit', label = 'Cleaning Kit', price = 80 },
             { name = 'radio', label = 'Radio', price = 250 },
-            { name = 'phone', label = 'Telefon', price = 300 }
+            { name = 'phone', label = 'Phone', price = 300 }
         }
     }
 }
