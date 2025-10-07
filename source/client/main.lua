@@ -69,7 +69,6 @@ RegisterNetEvent('m-shops:openPaymentMenu', function(data)
                 TriggerServerEvent('m-shops:purchase', {
                     item = item.name,
                     amount = amount,
-                    price = item.price,
                     payment = method.id
                 })
             end
