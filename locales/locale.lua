@@ -11,7 +11,10 @@ Locales['en'] = {
     not_enough_bank = 'Not enough bank money',
     invalid_payment = 'Invalid payment method',
     purchase_success = 'Purchased %sx %s (%s)',
-    purchase_failed = 'Failed to give item'
+    purchase_failed = 'Failed to give item',
+    toomuch_items = 'You cannot buy more than 10 items at once',
+    notnear = 'You are not near a shop',
+    itemnotfound = 'Item not found'
 }
 
 Locales['sv'] = {
@@ -25,7 +28,10 @@ Locales['sv'] = {
     not_enough_bank = 'Inte tillräckligt med pengar på banken',
     invalid_payment = 'Ogiltig betalningsmetod',
     purchase_success = 'Köpte %sx %s (%s)',
-    purchase_failed = 'Misslyckades med att ge föremål'
+    purchase_failed = 'Misslyckades med att ge föremål',
+    toomuch_items = 'Du kan inte köpa mer än 10 föremål på en gång',
+    notnear = 'Du är inte nära en butik',
+    itemnotfound = 'Föremål hittades inte'
 }
 
 return Locales
