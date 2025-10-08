@@ -11,18 +11,6 @@ Supports multiple inventory systems (`qb`, `qs`, `ox`) and payment methods (`cas
 
 ---
 
-## 📋 Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Localization](#localization)
-- [Dependencies](#dependencies)
-- [Changelogs](#changelogs)
-
----
-
 ## ℹ️ Project Information
 
 - **👤 Author:** [themiruvo](https://github.com/themiruvo)
